@@ -1,0 +1,25 @@
+{
+  "name": "no-index-on-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "any-observable": "^0.1.0",
+    "array-differ": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleygwilliams/no-index-on-6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/no-index-on-6/issues"
+  },
+  "homepage": "https://github.com/ashleygwilliams/no-index-on-6#readme",
+  "description": ""
+}
